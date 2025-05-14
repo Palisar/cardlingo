@@ -1,0 +1,2 @@
+As a learner, I want to review flashcards in a pile format, so I can easily remember and reinforce new words. 
+Acceptance Criteria:  The user sees a pile of flashcards representing a specific topic or difficulty level.CardLingo is a vocabulary-learning app that uses interactive card piles and spaced repetition to help users effectively memorize and retain English words and phrases.ICE SCORE Cards can be flipped to reveal definitions, example sentences,
